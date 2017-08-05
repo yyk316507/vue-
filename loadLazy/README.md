@@ -2,6 +2,8 @@
 
 > 图片懒加载
 
+> 图片懒加载
+
 ## Build Setup
 
 ``` bash
